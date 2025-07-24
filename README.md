@@ -1,1 +1,2 @@
 # rock-paper-scissors
+This is an Odin Project exercise which uses some JS switch statements and functions to create a working Rock, Paper, Scissors game which is played entirely through the console at the moment. To open it, simply hit "Ctrl/Cmd+Shift+J".
